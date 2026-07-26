@@ -6,12 +6,18 @@ Atualmente estou aprendendo Programação mais focada para a área de Cibersegur
 
 No minha rotina de estudos, procuro sempre dar um passo de cada vez. Nessa rotina, procuro constantemente aprender sobre Linux/Windows, ferramentas SOC, automações e ferramentas em Python, Network Security e além disso procuro criar meus próprios laboratórios de Ataque e Defesa. 
 
-A minha principal ferramenta em minha rotina de estudos é o Obisidian, posso considerá-lo como segundo cérebro, afinal toda minha base de conhecimento está lá. Utilizo outras ferramentas, tais como:
+#### Ferramentas/Tools:
 - Cisco Packet Tracer (Simulações de redes)
-- PyCharm / vim (Faço meus projetos através do PyCharm, no entanto utilizo o vim em meus laboratórios
+- PyCharm IDE/ vim (Faço meus projetos através do PyCharm, no entanto utilizo o vim em meus laboratórios
 - VirtualBox (Simulador de máquinas virtuais)
-Não entrarei em mais detalhes, para não deixar uma lista muita extensa.
+- Obisidian (Notas)
+
+#### Tecnologias
+- Python 
+- Bash script 🐚
 
 #### Hobbies:
 - Sempre em busca de aprender algo novo
+
+
 
