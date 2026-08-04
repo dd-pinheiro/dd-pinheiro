@@ -1,10 +1,8 @@
 ## Hello there! 👋
 
-Meu nome é Davi, no momento atuo como Técnico de Data Center no Cliente.
+Meu nome é Davi, no momento atuo como Técnico de Data Center.
 
-Atualmente estou aprendendo Programação mais focada para a área de Cibersegurança. Tenho como foco a linguagem Python, pelo simples fato de ela proporcionar infinitas bibliotecas para se utilizar.
-
-No minha rotina de estudos, procuro sempre dar um passo de cada vez. Nessa rotina, procuro constantemente aprender sobre Linux/Windows, ferramentas SOC, automações e ferramentas em Python, Network Security e além disso procuro criar meus próprios laboratórios de Ataque e Defesa. 
+Na minha rotina de estudos, procuro sempre dar um passo de cada vez. Nessa rotina, procuro constantemente aprender sobre Linux/Windows, ferramentas SOC, automações e ferramentas em Python, Network Security e além disso procuro criar meus próprios laboratórios de Ataque e Defesa. 
 
 #### Ferramentas/Tools:
 - Cisco Packet Tracer (Simulações de redes)
