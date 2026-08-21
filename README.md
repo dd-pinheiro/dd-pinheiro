@@ -11,7 +11,7 @@ Na minha rotina de estudos, procuro sempre dar um passo de cada vez. Nessa rotin
 - Obisidian (Notas)
 
 #### Tecnologias
-- Python 
+- Python 🐍
 - Bash script 🐚
 
 #### Hobbies:
