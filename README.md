@@ -14,7 +14,7 @@ Busco constantemente aprender sobre o mundo de Segurança da informação; seja,
 
 #### Tecnologias
 - Python 🐍
-- Bash script 🐚
+- Bash script 🐚 - Básico
 
 #### Hobbies:
 - Sempre em busca de aprender algo novo
