@@ -7,17 +7,18 @@ Como Técnico de Operações na T-Systems do Brasil, contribuo para a monitoraç
 Busco constantemente aprender sobre o mundo de Segurança da informação; seja, aprimorar minhas competências em Sistemas Operacionais, análise de ameaças, defesa de redes e automação de tarefas com linguagens de programação. Meu objetivo é expandir habilidades técnicas em Threat Hunting, Linux, Python e Segurança em Redes.
 
 #### Ferramentas/Tools:
-- Cisco Packet Tracer (Simulações de redes)
+- Zabbix
 - PyCharm IDE / vim
-- Obisidian (Notas)
-- Elasticsearch
+- Wireshark
+- Elastic Search
+
 
 #### Tecnologias
 - Python 🐍
 - Bash script 🐚 - Básico
 
 #### Hobbies:
-- Sempre em busca de aprender algo novo
+- Sempre em busca de aprender algo novo relacionado ao mundo de tecnologia.
 
 
 
