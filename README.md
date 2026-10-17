@@ -6,7 +6,6 @@ Busco constantemente aprender sobre o mundo de Segurança da informação; seja,
 
 #### Ferramentas/Tools:
 - Zabbix
-- PyCharm IDE / vim
 - Wireshark
 - Elastic Search
 
@@ -16,7 +15,7 @@ Busco constantemente aprender sobre o mundo de Segurança da informação; seja,
 - Bash script 🐚
 
 #### Hobbies:
-- Sempre em busca de aprender algo novo relacionado ao mundo de tecnologia.
+- Sempre em busca de aprender algo novo.
 
 
 
