@@ -9,10 +9,11 @@ Busco constantemente aprender sobre o mundo de Segurança da informação; seja,
 - Wireshark
 - Elastic Search
 
-
 #### Tecnologias
 - Python 🐍
-- Bash script 🐚
+- Linux
+- Windows
+- ElasticSearch
 
 #### Hobbies:
 - Sempre em busca de aprender algo novo.
