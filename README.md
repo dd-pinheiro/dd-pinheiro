@@ -1,8 +1,8 @@
 ## Hello there! 👋
 
-Meu nome é Davi, sou um profissional de tecnologia apaixonado pelo mundo de **CyberSec**.
+Meu nome é Davi, sou um profissional de tecnologia apaixonado pelo mundo de **Cibersegurança**.
 
-Busco constantemente aprender sobre o mundo de Segurança da informação; seja, aprimorar minhas competências em Sistemas Operacionais, análise de ameaças, defesa de redes e automação de tarefas com linguagens de programação. Meu objetivo é expandir habilidades técnicas em Threat Hunting, Linux, Python e Segurança em Redes.
+Busco constantemente aprender sobre o mundo de Segurança da informação; seja, aprimorando minhas competências em Sistemas Operacionais, análise de ameaças, defesa de redes e automação de tarefas com linguagens de programação. Meu objetivo é expandir habilidades técnicas em Threat Hunting, Linux, Python e Segurança em Redes.
 
 #### Ferramentas/Tools:
 - Zabbix
@@ -11,9 +11,7 @@ Busco constantemente aprender sobre o mundo de Segurança da informação; seja,
 
 #### Tecnologias
 - Python 🐍
-- Linux
-- Windows
-- ElasticSearch
+- JavaScript
 
 #### Hobbies:
 - Sempre em busca de aprender algo novo.
