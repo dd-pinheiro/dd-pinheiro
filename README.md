@@ -1,7 +1,7 @@
 # Hello there!
-<a href="https://www.linkedin.com/in/ddavipinheiro"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-Meu nome é Davi, sou um profissional de tecnologia apaixonado pelo mundo de **Cibersegurança**.
+Meu nome é Davi, sou um profissional de tecnologia apaixonado pelo mundo de **Cibersegurança**. Para mais informações sobre minha jornada profissional:
+<a href="https://www.linkedin.com/in/ddavipinheiro"><img height="20" src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 ## Objetivo
 
